@@ -6,11 +6,17 @@
 
 
 
+
+
 ## 1. Git 설치
 
 * [Git 설치 링크](https://git-scm.com/downloads) 를 클릭하시고 본인의 운영체제에 맞게 다운로드합니다.
 
 >  본문은 windows 운영체제를 기준으로 설명합니다.
+
+
+
+
 
 
 
@@ -28,9 +34,15 @@ $ git init
 
 
 
+
+
+
+
 ## 3. 기본 작업 흐름
 
 > 여기서부터는 아주 간략히 명령어 위주로 설명하겠습니다.
+
+
 
 ### 1. add
 
@@ -64,6 +76,8 @@ $ git commit -m 'message'
 
 * 각자의 Github 주소에 들어가 Repositories - new를 이용해 원격저장소를 생성합니다.
 
+  
+
 ![makeRepository](image/makeRepository-1615907062560.JPG)
 
 * Owner name은 사진상의 moonbaaang으로 대체하고 Repository name 은 Github_EasyToUse이라 가정하겠습니다.
@@ -78,6 +92,8 @@ $ git remote add origin http://github/moonbaaang/Github_EasyToUse.git
 ```
 
 * 이때 Ownername인 `moonbaaang`과 Repository name인 `Github_EasyToUse`는 각자 사용하고자 하는 것으로 수정하시면 됩니다.
+
+  
 
 ## 4. Push
 
