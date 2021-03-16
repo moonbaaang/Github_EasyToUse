@@ -66,7 +66,7 @@ $ git commit -m 'message'
 
 ![makeRepository](image/makeRepository-1615907062560.JPG)
 
-* Owner name은 사진상의 moonbaaang으로 대체하고 Repository name 은 gitname이라 가정하겠습니다.
+* Owner name은 사진상의 moonbaaang으로 대체하고 Repository name 은 Github_EasyToUse이라 가정하겠습니다.
 * Create repository를 하면 아래와 같은 도움말이 나타납니다.
 
 ![makeRepository2](image/makeRepository2-1615907074370.JPG)
@@ -74,10 +74,10 @@ $ git commit -m 'message'
 * 여기서 첫번째 줄을 그대로 복사하여 붙여넣습니다.
 
 ```bash 
-$ git remote add origin http://github/moonbaaang/gitname.git
+$ git remote add origin http://github/moonbaaang/Github_EasyToUse.git
 ```
 
-
+* 이때 Ownername인 `moonbaaang`과 Repository name인 `Github_EasyToUse`는 각자 사용하고자 하는 것으로 수정하시면 됩니다.
 
 ## 4. Push
 
